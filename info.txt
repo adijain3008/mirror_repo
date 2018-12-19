@@ -1,0 +1,4 @@
+This is a trial file used for testing mirror image concept.
+This file has been created in the child_branch 
+and not in the master branch.
+This file is not yet merged in the master branch.
